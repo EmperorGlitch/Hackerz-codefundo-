@@ -6,4 +6,4 @@ This project is intended to help reduce the damage caused by natural disasters b
 We will scrape real time natural disaster reports from various sources as well and display in a feed.
 Since all model training and predictions take place on server side, the app usability should not be affected even in regions with poor connectivity.
 Implementation: We will be using an unsupervised learning clustering algorithm for identifying risk prone areas to learn spatial dependency. For the time series analysis, we will be using an LSTM algorithm to learn temporal dependency. 
-Datasets used: EEM-DAT: The Emergency Events Database by CRED, Significant Earthquakes, 1965-2016 by US Geological Survey, Landslides After Rainfall, 2007-2016 by NASA.
+Datasets used: EM-DAT: The Emergency Events Database by CRED, Significant Earthquakes, 1965-2016 by US Geological Survey, Landslides After Rainfall, 2007-2016 by NASA.
